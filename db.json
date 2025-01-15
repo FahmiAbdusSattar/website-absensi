@@ -1,25 +1,4 @@
 {
   "users": [
-    {
-      "id": "b2c0",
-      "name": "fahmi",
-      "npm": "50422487",
-      "password": "1234",
-      "lastLogin": "2025-01-14T14:03:06.814Z"
-    },
-    {
-      "id": "45fd",
-      "name": "yasin",
-      "npm": "50422136",
-      "password": "12345",
-      "lastLogin": "2025-01-14T14:03:58.313Z"
-    },
-    {
-      "id": "39ec",
-      "name": "ermila",
-      "npm": "50422470",
-      "password": "123456",
-      "lastLogin": "2025-01-14T14:04:07.130Z"
-    }
   ]
 }
